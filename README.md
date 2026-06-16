@@ -89,7 +89,9 @@ pip install -r requirements.txt
 ---
 
 ##  Output
-- Forecast dataset (`forecast.csv`) 
+- Forecast dataset (`forecast.csv`)
+
+![Data Ingestion Output](images/downloads/Python Scripts- Ingest output.png)
 - Stored in BigQuery/S3
 - Ready for Power BI/Tableau dashboards
 
